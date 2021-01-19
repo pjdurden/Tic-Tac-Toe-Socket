@@ -4,8 +4,10 @@ Tynker Module used to implement network interface and implement client-server ne
 
 # Account Creation
 <img src="https://github.com/pjdurden/Tic-Tac-Toe-Socket/blob/main/Account%20generation.JPG">
+
 # In game
 <img src="https://github.com/pjdurden/Tic-Tac-Toe-Socket/blob/main/In%20game%20screenshot.JPG">
+
 # Leaderboard
 <img src="https://github.com/pjdurden/Tic-Tac-Toe-Socket/blob/main/Leaderboard.JPG">
 
