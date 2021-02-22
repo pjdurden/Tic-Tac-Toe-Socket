@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Socket
 TicTacToe game to play against computer using Artificial Intelligence and Socket Programming. Minimax Algorithm and python Tynker module implemented.
-Tynker Module used to implement network interface and implement client-server network architechture.
+Tkinter Module used to implement network interface and implement client-server network architechture.
 
 # Account Creation
 <img src="https://github.com/pjdurden/Tic-Tac-Toe-Socket/blob/main/Account%20generation.JPG">
