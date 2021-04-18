@@ -1,6 +1,3 @@
-#!/usr/bin/env python3.7
-# Isaac Diaby 090492276
-# this is just making a connection to the database and setting it up
 import sqlite3  # used to talk to the SQL database
 
 
