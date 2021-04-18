@@ -1,7 +1,3 @@
-#!/usr/bin/env python3.7
-# Isaac Diaby 090492276
-# This is the client of the project. It will be used to talk to the server.
-
 import socket  # used to create the client socket connection with the server socket.
 import pickle  # parser that is used to accept and send any python class.
 

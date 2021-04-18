@@ -1,6 +1,3 @@
-#!/usr/bin/env python3.7
-# Isaac Diaby 090492276
-# This is the server of the project. it will be used to talk to the database and execute SQL
 from server_sql_connection import SqlServerConnection
 
 import socket  # used to run the socket server

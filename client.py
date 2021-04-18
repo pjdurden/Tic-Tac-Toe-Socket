@@ -1,7 +1,3 @@
-#!/usr/bin/env python3.7
-# Isaac Diaby 090492276
-
-# the client views and page routing
 import tkinter as tk  # Ui builder
 from tkinter import ttk # leaderboard UI builder
 
