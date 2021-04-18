@@ -1,14 +1,15 @@
 # Tic-Tac-Toe-Socket
-TicTacToe game to play against computer using Artificial Intelligence and Socket Programming. Minimax Algorithm and python Tynker module implemented.
+TicTacToe game to play against computer using Artificial Intelligence and Socket Programming. 
+Minimax Algorithm and python Tynker module implemented.
 Tkinter Module used to implement network interface and implement client-server network architechture.
 
-# Account Creation
+## Account Creation
 <img src="https://github.com/pjdurden/Tic-Tac-Toe-Socket/blob/main/Account%20generation.JPG">
 
-# In game
+## In game
 <img src="https://github.com/pjdurden/Tic-Tac-Toe-Socket/blob/main/In%20game%20screenshot.JPG">
 
-# Leaderboard
+## Leaderboard
 <img src="https://github.com/pjdurden/Tic-Tac-Toe-Socket/blob/main/Leaderboard.JPG">
 
 The AI Judge uses Alpha Beta pruning with minimax algorithm Alpha–beta pruning is a search algorithm that seeks to decrease the number of nodes that 
@@ -17,5 +18,5 @@ are evaluated by the minimax algorithm in its search tree. It is an adversarial 
 examined move. Such moves need not be evaluated further. When applied to a standard minimax tree
 
 
-# Backend Judge using MINIMAX with ALPHA BETA PRUNING
+## Backend Judge using MINIMAX with ALPHA BETA PRUNING
 <img src="https://github.com/pjdurden/Tic-Tac-Toe-Socket/blob/main/AI%20Judge.JPG">
